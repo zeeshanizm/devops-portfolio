@@ -12,7 +12,7 @@ A modern, responsive portfolio built with **React**, **Vite**, and **JavaScript*
 [![Vercel](https://img.shields.io/badge/Hosting-Vercel-black?logo=vercel)](https://vercel.com/)
 [![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](#-contributing)
 
-**[🌐 Live Website](https://devops-portfolio-two-sigma.vercel.app/)** · **[🚀 Get Started](#-quick-start)** · **[🎨 Customize](#-make-it-yours)** · **[☁️ Deploy](#-publish-your-website)**
+**[🌐 Live Website](https://zeeshan-sand.vercel.app/)** · **[🚀 Get Started](#-quick-start)** · **[🎨 Customize](#-make-it-yours)** · **[☁️ Deploy](#-publish-your-website)**
 
 </div>
 
